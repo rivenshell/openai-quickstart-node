@@ -19,7 +19,7 @@ export default function Home() {
     setResult(data.result);
     setAnimalInput("");
   }
-
+// return
   return (
     <div>
       <Head>
